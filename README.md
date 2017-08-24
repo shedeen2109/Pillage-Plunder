@@ -11,7 +11,7 @@ Check out Gravity's latest game, CTHON, while you're at it ;)
 I did not finish porting this game to GameMaker: Studio, so some things may be broken when you attempt to import it, but
 for the most part it should work. I DO NOT intend to specifically/extensively help anyone with porting this game to Studio; I
 will leave that up to you. I just don't have enough time to address every question about the game you might have, but if you
-contact me through email at gravity.games@outlook.com, chances are I will respond and try to help if I can. If I get some free
+contact me through email at gravity (dot) games (at) outlook (dot) com, chances are I will respond and try to help if I can. If I get some free
 time to devote to porting Pillage to Studio myself, I will do so, but I can't make any guarantees.
 
 Remember that this is now open source software - if you implement a new feature I encourage you to share with others
